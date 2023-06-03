@@ -5,8 +5,8 @@
 ## State Estimation: Investigating the Issues During Indoor-Outdoor Transitions 
 
  **Team D-FAST**: Damla Leblebicioglu, Francis Jacob Kalliath, Arun Madhusudhanan, Shankara Narayanan Vaidyanathan, Tejaswini Dilip Deore
-
-[Project Report](report.pdf)
+<!-- [**Project Report**](report.pdf) -->
+<kbd>[Project Report](report.pdf)</kbd>
 
 ## Details
 Understanding the state of the robot is a crucial
