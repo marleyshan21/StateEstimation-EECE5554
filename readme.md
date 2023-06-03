@@ -8,6 +8,19 @@
 
 [Project Report](report.pdf)
 
+## Details
+Understanding the state of the robot is a crucial
+element for autonomous navigation. Several papers investigate
+SLAM (Simultaneous Localization and Mapping) pipelines in
+either outdoor or interior contexts, or both. However, only a few
+works have looked at the difficulties that might develop when
+moving from an outdoor to an indoor setting or vice versa. In
+this project, we have explored some frequent problems faced
+when performing global state estimation during such environ-
+ment transitions. This project used all three key sensors covered
+in the Robotics Sensing and Navigation course: Camera, IMU,
+and RTK-GPS.
+
 ## Rosbag links
 
 | name | link | 
