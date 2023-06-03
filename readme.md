@@ -5,8 +5,15 @@
 ## State Estimation: Investigating the Issues During Indoor-Outdoor Transitions 
 
  **Team D-FAST**: Damla Leblebicioglu, Francis Jacob Kalliath, Arun Madhusudhanan, Shankara Narayanan Vaidyanathan, Tejaswini Dilip Deore
-<!-- [**Project Report**](report.pdf) -->
-<kbd>[Project Report](report.pdf)</kbd>
+ 
+ 
+ 
+ <!-- | [**Project Report**](report.pdf) |  | -->
+ <a href="https://github.com/marleyshan21/StateEstimation-EECE5554/blob/main/report.pdf" style="display: inline-block; padding: 6px 12px; background-color: #f0f0f0; color: #100; border: 1px solid #ccc; border-radius: 4px;">Project Report</a>
+ 
+<!-- | :--: |:--: | -->
+<!-- |[**Project Report**](report.pdf)| -->
+<!-- <kbd>[Project Report](report.pdf)</kbd> -->
 
 ## Details
 Understanding the state of the robot is a crucial
