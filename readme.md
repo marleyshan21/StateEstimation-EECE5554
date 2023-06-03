@@ -13,7 +13,8 @@
  
 <!-- | :--: |:--: | -->
 <!-- |[**Project Report**](report.pdf)| -->
-<kbd>[**Project Report**](report.pdf)</kbd>
+### <kbd>[**Project Report**](report.pdf)</kbd>
+
 
 ## Details
 Understanding the state of the robot is a crucial
